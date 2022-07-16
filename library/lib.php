@@ -12,9 +12,9 @@ function getConection() {
 
 function apiParameters() {
     return [
-        "url" => "https://api2.megaapi.com.br/rest/",
-        "instance" => "megaapi-MSt6cDcgQBPtghyqHCBNurDDJP",
-        "token" => "MSt6cDcgQBPtghyqHCBNurDDJP",
+        "url" => "https://XXXXXXXXXXXXXXX/rest/",
+        "instance" => "XXXXXXXXXXXXXXX",
+        "token" => "XXXXXXXXXX",
     ];
 }
 
