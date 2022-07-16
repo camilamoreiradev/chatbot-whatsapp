@@ -1,8 +1,8 @@
 # Chatbot feito com MySQL + Mega Api WhatsApp
 
 1. Acesse library > dump.sql e instale o banco de dados
-2. Acesse lib.php e ajuste das configurações de banco de dados e da API de whatsapp
-3. Divirta-se testando e melhorando o código
+2. Acesse lib.php e ajuste as configurações de banco de dados e da API de whatsapp que estão logo nas primeiras funções
+3. Agora é só se divertir testando e melhorando o código
 
 # Atenção
 
